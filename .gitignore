@@ -22,5 +22,7 @@ tmp/**
 # sbt
 /project/project/
 /project/target/
+.cache-main
+.cache-tests
 
 /src/main/resources/*
